@@ -1,0 +1,20 @@
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\bin\Debug\SorteadorPeladeiros_V2.exe.config
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\bin\Debug\SorteadorPeladeiros_V2.exe
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\bin\Debug\SorteadorPeladeiros_V2.pdb
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.csprojResolveAssemblyReference.cache
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.Properties.Resources.resources
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.csproj.GenerateResource.Cache
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.exe
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.pdb
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.Cadastro.resources
+E:\Pessoais\Projetos C#\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.Main_Form.resources
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\bin\Debug\SorteadorPeladeiros_V2.exe.config
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\bin\Debug\SorteadorPeladeiros_V2.exe
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\bin\Debug\SorteadorPeladeiros_V2.pdb
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.csprojAssemblyReference.cache
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.Cadastro.resources
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.Main_Form.resources
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.Properties.Resources.resources
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.csproj.GenerateResource.cache
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.exe
+F:\Pessoais\Projetos\SorteadorPeladeiros_V2\SorteadorPeladeiros_V2\obj\Debug\SorteadorPeladeiros_V2.pdb
